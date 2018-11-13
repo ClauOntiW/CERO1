@@ -1,2 +1,2 @@
-# CERO1
+# Cerouno
 Manejo de Datos y Estadística
